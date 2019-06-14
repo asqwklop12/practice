@@ -1,0 +1,78 @@
+header {
+height: 10em;
+width: 100%;
+background-color: red;
+}
+
+main {
+  height: 50em;
+  width: 100%;
+  background-color: yellow;
+}
+.notice {
+  height: 50%;
+  width: 50%;
+  background-color: green;
+  float: left;
+}
+
+.login {
+  height: 50%;
+  width: 50%;
+  background-color: purple;
+  float: right;
+}
+
+.box {
+  display: inline-block;
+  height: 50%;
+  width: 50%;
+  background-color: gray;
+
+}
+.box_bandi {
+  display: inline-block;
+  height: 10%;
+  width: 10%;
+  background-color: green;
+}
+.box_ypbooks {
+  display: inline-block;
+  height: 10%;
+  width: 10%;
+  background-color: yellow;
+}
+
+.box_kyobobook {
+  display: inline-block;
+  height: 10%;
+  width: 10%;
+  background-color: red;
+}
+
+.box_yes24 {
+  display: inline-block;
+  height: 10%;
+  width: 10%;
+  background-color: green;
+}
+
+.box_aladin {
+  display: inline-block;
+  height: 10%;
+  width: 10%;
+  background-color: yellow;
+}
+
+.box_userSelect {
+  display: inline-block;
+  height: 10%;
+  width: 10%;
+  background-color: red;
+}
+
+footer {
+  height: 10em;
+  width: 100%;
+  background-color: green;
+}
