@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <!-- 합쳐지고 최소화된 최신 CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+  <!-- 부가적인 테마 -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+  <!-- 합쳐지고 최소화된 최신 자바스크립트 -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <div class="panel panel-primary">
+    <div class="panel-heading">
+      <span class="glyphicon glyphicon glyphicon-align-justify" aria-hidden="true"> </span>
+      <b>특정책의</b> 상세정보
+    </div>
+    <div class="panel-body">
+
+      <div class="form-group">
+
+        <div class="media">
+          <div class="media-left media-middle">
+            <img src="./img/kakao.png" alt="" class="img-circle imgSize" />
+          </div>
+          <div class="media-body">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">상세 내용</h3>
+              </div>
+              <div class="panel-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">목차</h3>
+          </div>
+          <div class="panel-body">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+            aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
