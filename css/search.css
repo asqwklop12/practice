@@ -1,0 +1,41 @@
+
+.thema {
+  display: inline-block;
+  float: left;
+  height: 20%;
+  width: 20%;
+}
+.boxing {
+  margin: 5%;
+}
+
+.content {
+  display: inline-block;
+  height: 100%;
+  width: 80%;
+}
+
+.content_title {
+display: inline-block;
+}
+
+.content_likeThis {
+display: inline-block;
+
+}
+
+.content_author {
+display: inline-block;
+}
+
+.content_publisher {
+display: inline-block;
+}
+
+.content_date {
+display: inline-block;
+}
+
+.content_cost {
+
+}
